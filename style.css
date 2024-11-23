@@ -6,6 +6,12 @@ p{
     
 }
 
+
+@media (max-width:640px) {
+    p{
+        background-color: rgb(46, 49, 218);
+    }
+}
 @media (min-width:640px) {
     p{
         background-color: black;

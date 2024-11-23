@@ -1,0 +1,13 @@
+p{
+    color: wheat;
+    font-size: xx-large;
+    padding: 20px;
+    background-color: brown;
+    
+}
+
+@media (min-width:640px) {
+    p{
+        background-color: black;
+    }
+}
